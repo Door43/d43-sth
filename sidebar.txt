@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sth:home|Door43 (sth)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sth|d43-sth repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sth/archive/master.zip|d43-sth.zip]]
+
+**Recent Changes**
+{{changes>ns = sth}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sth|Ethnologue data]]
+
